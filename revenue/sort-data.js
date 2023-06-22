@@ -31,4 +31,4 @@ function exportToCSV(data, filename) {
 }
 
 // Exporting the data to a CSV file
-exportToCSV(csvData, 'output.csv');
+exportToCSV(csvData, 'output2.csv');
